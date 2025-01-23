@@ -2,6 +2,7 @@
 
 $fruit1 = "Apple";
 $fruit2 = "Cashew";
+$fruit3 = "Banana";
 
 // simple array
 $fruits = ["Apple","Pineapple","Water Melon","Banana"];
