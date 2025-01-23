@@ -1,0 +1,12 @@
+username:bash
+email:bash@gmail.com
+password:1234
+ 
+username:bashir
+email:fdfdfdf@gmail.com
+password:10000
+ 
+username:bashir
+email:bash@gmail.com
+password:111
+ 
